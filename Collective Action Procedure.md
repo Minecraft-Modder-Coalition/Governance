@@ -12,8 +12,7 @@ In order to take collective action, a member must start by creating a discussion
 - The proposal will enter a 72 hour review period, where all coalition members are notified of the proposal and can request an amendment be made. Any amendment requires at least 1 other member to second it. How and if its implemented is left at the discretion of the proposal author
 - After 72 hours, the proposal is finalized and no further changes can be made to it.
 - A vote should be setup and facilitated the vote for the motion. For a vote to pass, at least 50% of members must participate. Members may vote yes, no, or present. Present votes count toward participation but not toward the result. The proposal passes if more than half of the yes and no votes are yes.[^1] Voting for a proposal takes place online over secret ballot on https://vote.heliosvoting.org.
-	- Votes on collective action are set up by the President, or by any delegate if the President is unavailable or named in the proposal. No one named in a proposal may set up or implement its vote. If no vote has been opened within 24 hours of the review period ending, any delegate may open it.
-> The delegation maintains a public list of eligible members, which is used as the voter list for all votes.
+	- Votes on collective action are set up by the President, or by any delegate if the President is unavailable or named in the proposal. No one named in a proposal may set up or implement its vote. If no vote has been opened within 24 hours of the review period ending, any delegate may open it
 - If a vote passes, the coalition president is tasked with the implementation within 48 hours of approval:
 	- In the case of a procedural change, they must approve the PR and merge it into the governance documents
 	- In the case of a collective action request, they must organize the coalition to take that step of collective action.
