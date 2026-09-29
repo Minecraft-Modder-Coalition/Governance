@@ -1,5 +1,7 @@
 Collective action is defined as any action taken by the coalition as a whole. They can be a motion to have the coalition send a request letter to a company, a motion to change an existing governance document, a motion to remove a member from the coalition delegation, and so on. Approved actions hold the power to do anything to and for the coalition.
 
+To prevent coalition actions from becoming overwhelming and hard to keep up with, only 1 collective action item may be in discussion at once. Once an item has left discussion and moved onto voting, a new motion can be brought to the full attention of the coalition. Effectively, we'll only never have more than 2 collective action items pending at once.
+
 In order to take collective action, a member must start by creating a discussion channel. Any member can start a new discussion to gather consensus on an issue. Once that member is ready to propose the collective action plan, this is what happens next:
 - They must notify a coalition delegate along with:
 	- A brief summary of the contents of the proposal, and its merits.
