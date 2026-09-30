@@ -9,7 +9,7 @@ In order to take collective action, a member must start by creating a discussion
 		- If the proposal is for a procedure change, the request should include an open PR to the Governance github repository, found here: https://github.com/Minecraft-Modder-Coalition/Governance/
 		- If the proposal is for member removal, delegation removal, or presidential removal, the request should say who is being targetted, why the action is necessary, whether other courses of action have been taken or considered, if not why not.
 			- The motion should also note, in the case of removing the president, whether the president should stay on as a delegate or also be removed.
-	- Coalition delegates will verify that the proposal has been discussed and has at least 1 other member in agreements with its contents before it can be brought to a vote of the full coalition
+	- Coalition delegates will verify that the proposal has been discussed and has at least 1 other member in agreement with its contents before it can be brought to a vote of the full coalition
 - A coalition delegate will send a new message in the coalition announcements discord channel, where the delegate will include the summary, and a link to view the full proposed action (GitHub PR or Google Doc).
 - The proposal will enter a 1 week review period, where all coalition members are notified of the proposal and can request an amendment be made. How and if its implemented is left at the discretion of the proposal author.
 	- At any time, the proposal author can choose to table discussion of the action item should the author wish to continue working on it before bringing it back up for discussion. 
