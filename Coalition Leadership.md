@@ -10,7 +10,7 @@ If a seat on the delegation becomes vacant, the remaining delegation must notify
 
 Election procedures are as follows:
 
-- An election coordinator is appointed to oversee the election. The coordinator is ineligible to run for an open vacancy. [^1]
+- An election coordinator is appointed to oversee the election. Any member can volunteer to be the coordinator, and are picked by a simple Discord poll. No quorum is needed to appoint the coordinator, though all members should be notified of the poll so they can nominate themselves to coordinate, and the poll should close automatically in 3 days. A separate discussion thread should be spun up to discuss this election by the coordinator.
 - The coordinator announces a schedule for the upcoming election. They’ll create a self-nominations channel members can use to nominate themselves for the open seat(s). Any member of the coalition who has not previously been removed from office by coalition action or otherwise barred from running by the coalition can volunteer to run. Nominations for special elections must be open for at least 1 week, while nominations for general elections open 45 days before the day of the vote.
 - The election coordinator should announce the full list of candidates and each candidate may make a public statement in an election forum before voting starts.
 - 1 week after the candidates have been announced, the election will take place by secret ballot. Voting lasts at least 1 week using the Coalition Discord Bot
@@ -38,7 +38,3 @@ Presidents removed from office by a coalition collective action are not eligible
 The delegation must maintain accurate records that remain accessible to future classes of delegations. These records include but are not limited to important third party conversations and negotiated deals.
 
 Members are barred from collecting and spending money on behalf of the organization until such time that an amendment can be ratified with financial governance
-
-Note 1: No idea who will be the first one, i think Up or IHH54 could be impartial? Maybe we just pick at random until we find someone who is willing to do it. This needs to be discussed as a group.
-
-[^1]: We need to discuss who should potentially be the election coordinator. My thought was Up or IHH54 if they are willing
