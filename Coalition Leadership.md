@@ -4,9 +4,9 @@ In the interest of making sure that we are represented in this current moment, I
 
 The Acting President serves to keep the coalition running until the selection of an actual President concludes, acting as the point of contact and organizing discussions. The Acting President may not negotiate, make agreements, or create procedures on behalf of the coalition, and may not appoint the election coordinator or influence how the election is run. Any urgent matters must be brought to the full membership for a decision, and any member may bring a disputed interpretation of procedure to the full membership for a decision. The Acting President may be removed at any time through a motion of coalition collective action. If no delegation is present, the longest-standing member of the coalition who is willing to serve is selected as the Acting President.
 
-Annual elections will be held each year, with voting opening on the first Friday of February. The first annual election will open voting on February 4th, 2028. Nominations for annual elections open 17 days before voting opens.
+Annual elections will be held each year, with voting opening on the first Friday of February. The first annual election will open voting on February 4th, 2028. Nominations for annual elections open 45 days before voting opens.
 
-If a seat on the delegation becomes vacant, the remaining delegation must notify the coalition within 48 hours, and election procedures will begin. If a vacancy occurs within 45 days of an annual election, the seat will instead be filled in that election.
+If a seat on the delegation becomes vacant, the remaining delegation must notify the coalition within 48 hours, and election procedures will begin. If a vacancy occurs within 60 days of an annual election, the seat will instead be filled in that election.
 
 Election procedures are as follows:
 
